@@ -1,4 +1,4 @@
-## Upcoming Adidas Monitor 2019
+## Upcoming Adidas Monitor 2019 - Won't be out anytime. just putting it out there xD
 
 ## Features
 
