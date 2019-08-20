@@ -1,0 +1,24 @@
+{
+  "webhooks": [
+    {
+      "region": "us",
+      "webhook_url": ""
+    },
+    {
+      "region": "uk",
+      "webhook_url": ""
+    },
+    {
+      "region": "ca",
+      "webhook_url": ""
+    }
+  ],
+  "pollMS": 10000,
+  "products": [
+    {
+      "region": "us",
+      "domain": "com",
+      "pid": "BB3929"
+    }
+  ]
+}
